@@ -4,3 +4,6 @@ learning by doing
 -  create  portofolio coding with python
 -  Mastering python developer
 -  Learning Data Science
+
+
+Thanks!
